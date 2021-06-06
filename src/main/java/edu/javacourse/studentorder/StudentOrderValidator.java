@@ -26,6 +26,7 @@ public class StudentOrderValidator {
 
 
 
+
     public StudentOrderValidator() {
         cityRegisterVal = new CityRegisterValidator();
         weddingVal = new WeddingValidator();
