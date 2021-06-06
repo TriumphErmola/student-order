@@ -2,16 +2,16 @@ package edu.javacourse.studentorder.dao;
 
 import edu.javacourse.studentorder.domain.*;
 import edu.javacourse.studentorder.exception.DaoException;
-import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
 
 import java.time.LocalDate;
 import java.util.List;
 
 
-public class StudentOrderDaoImplTest
-{
+public class StudentOrderDaoImplTest {
+
     @BeforeClass
     public static void startUp() throws Exception {
         DBInit.startUp();
