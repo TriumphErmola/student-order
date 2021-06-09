@@ -1,6 +1,5 @@
 package edu.javacourse.studentorder.config;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 

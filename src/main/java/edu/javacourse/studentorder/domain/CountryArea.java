@@ -29,4 +29,11 @@ public class CountryArea {
         this.areaName = areaName;
     }
 
+    @Override
+    public String toString() {
+        return "CountryArea{" +
+                "areaId='" + areaId + '\'' +
+                ", areaName='" + areaName + '\'' +
+                '}';
+    }
 }

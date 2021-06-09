@@ -61,4 +61,14 @@ public abstract class Person {
         this.address = address;
     }
 
+    @Override
+    public String toString() {
+        return "Person{" +
+                "surName='" + surName + '\'' +
+                ", givenName='" + givenName + '\'' +
+                ", patronymic='" + patronymic + '\'' +
+                ", dateOfBirth=" + dateOfBirth +
+                ", address=" + address +
+                '}';
+    }
 }

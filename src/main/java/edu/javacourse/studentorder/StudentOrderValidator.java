@@ -13,7 +13,6 @@ import edu.javacourse.studentorder.validator.CityRegisterValidator;
 import edu.javacourse.studentorder.validator.StudentValidator;
 import edu.javacourse.studentorder.validator.WeddingValidator;
 
-import java.util.LinkedList;
 import java.util.List;
 
 public class StudentOrderValidator {
