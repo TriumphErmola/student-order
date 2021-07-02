@@ -1,2 +1,3 @@
-edu\javacourse\studentorder\dao\SimpleRunner.class
+edu\javacourse\studentorder\validator\register\FakeCityRegisterChecker.class
 edu\javacourse\studentorder\dao\DictionaryDaoImplTest.class
+edu\javacourse\studentorder\dao\SimpleRunner.class

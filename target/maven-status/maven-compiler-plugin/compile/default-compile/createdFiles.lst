@@ -4,7 +4,6 @@ edu\javacourse\studentorder\domain\register\AnswerCityRegisterItem$CityStatus.cl
 edu\javacourse\studentorder\config\Config.class
 edu\javacourse\studentorder\domain\PassportOffice.class
 edu\javacourse\studentorder\domain\register\AnswerCityRegisterItem.class
-edu\javacourse\studentorder\validator\register\FakeCityRegisterChecker.class
 edu\javacourse\studentorder\domain\wedding\AnswerChildren.class
 edu\javacourse\studentorder\domain\CountryArea.class
 edu\javacourse\studentorder\StudentOrderValidator.class
@@ -20,9 +19,11 @@ edu\javacourse\studentorder\domain\Child.class
 edu\javacourse\studentorder\validator\CityRegisterValidator.class
 edu\javacourse\studentorder\dao\DictionaryDaoImpl.class
 edu\javacourse\studentorder\validator\register\RealCityRegisterChecker.class
+edu\javacourse\studentorder\domain\register\CityRegisterRequest.class
 edu\javacourse\studentorder\domain\wedding\AnswerStudent.class
 edu\javacourse\studentorder\exception\DaoException.class
 edu\javacourse\studentorder\domain\register\AnswerCityRegisterItem$CityError.class
+edu\javacourse\studentorder\util\LocalDateAdapter.class
 edu\javacourse\studentorder\SaveStudentOrder.class
 edu\javacourse\studentorder\domain\Person.class
 edu\javacourse\studentorder\domain\StudentOrderStatus.class
