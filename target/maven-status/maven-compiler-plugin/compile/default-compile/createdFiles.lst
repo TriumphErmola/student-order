@@ -13,7 +13,7 @@ edu\javacourse\studentorder\domain\Adult.class
 edu\javacourse\studentorder\domain\University.class
 edu\javacourse\studentorder\validator\StudentValidator.class
 edu\javacourse\studentorder\mail\MailSender.class
-edu\javacourse\studentorder\exception\TransportException.class
+edu\javacourse\studentorder\dao\ConnectionBuilder.class
 edu\javacourse\studentorder\validator\WeddingValidator.class
 edu\javacourse\studentorder\domain\Child.class
 edu\javacourse\studentorder\validator\CityRegisterValidator.class

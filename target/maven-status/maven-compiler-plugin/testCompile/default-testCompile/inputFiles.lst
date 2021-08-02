@@ -1,2 +1,5 @@
 C:\Users\Andrey\student-order\src\test\java\edu\javacourse\studentorder\dao\SimpleRunner.java
+C:\Users\Andrey\student-order\src\test\java\edu\javacourse\studentorder\validator\register\FakeCityRegisterChecker.java
+C:\Users\Andrey\student-order\src\test\java\edu\javacourse\studentorder\dao\DBInit.java
 C:\Users\Andrey\student-order\src\test\java\edu\javacourse\studentorder\dao\DictionaryDaoImplTest.java
+C:\Users\Andrey\student-order\src\test\java\edu\javacourse\studentorder\dao\StudentOrderDaoImplTest.java
